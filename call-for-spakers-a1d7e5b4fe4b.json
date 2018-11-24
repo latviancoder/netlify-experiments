@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "call-for-spakers",
+  "private_key_id": "a1d7e5b4fe4b2f07f9321eef2a413f191628f828",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDEUC/7bTv107NV\ns8kqrkncr7J9gzMdtuMejS9GGf+3XMqgZQtCV+DMrcpBa3V4jtDG400uSNb7iOte\n/AJnA/a+GJCR13HHMsJF4NsLGnUK03d+4WowLU+Hvt7zG7v1H/VWI1VDxgEfGstA\nPioGHhL7J9PmaEigPchCL6qWc5WVC6f1uAUhqDCsjAmnf6PwXSk5uFMDjBuQAen2\nPsj54D6MxbOwmykp8Xh4IXR7SHrc084+ZF3tlNSsRxlyC51naFWuGDQfL8r3d+b9\nr0Henvu1pszw+KjYLZZ+hrUxuc2A4/rr5lQohEFjdxnoW77Q6QyhqKOOm29ybEBe\nsJnW3455AgMBAAECggEABSkh0cdnLkkF67NXDvms9GcOrKZVzNVWzCH5rlXsTIAy\neBv1O1BpwZ0HS51NEGxvXZhyb3c3u5NiXfQHBiPrCR1GiPxJFUD8LW/B97KW2sAr\nYdkAJyBnI6eSCdcJTmIsMLsAuKWMYv/GfGZbSXTh79tLV+vBjlYsHQf5a+IW+meG\natzCiISdh/BVU9kdz9M7FgNaIHdu+afAOhh0tPGO8vv6s12hZPLLeNpC9+3Oe6xj\nRh0233s2rPJiqjajtJ9Cx5JuWm3RqiRyRN0aHLwG747efYDhyDhCEAWanA/WjRD7\nyAv7ENewyO7RbJGCy3S4C4zANGlLJxHgyKLCQkBjhwKBgQDj8aWkrXwQVP9bNffW\nwayAG84lVI6ZzmJkEZ4CLJO7lzp5y+3T1An4zYGJAV7D+eReWb+IQMcJp8sTTSD2\n7qPnj+Qh5+SEpP5eWBuVGUsQfhNWEP6Tj8r6g3Wz6+nH7/A6WP22lOjoomBZdsoH\n2TgffK7nfdCsTA6fXLVpqCOgYwKBgQDceeEVmKE1uzNv1ZdOPlw5SiFVwZSCnCTt\nT7xrW7XHzPbHkwz2pUyA+1/thzh7QRzQrRJywfcnGKJrJcmmaHoGU4RMI2gWdNUn\neIXiVoG1owmQOpZ1gYmsAwp43W8lwCy15T1L5trThdWwgvbT0vyb+RjHAziJsI1Z\nT1E20XIWcwKBgQCMjaXBDIRyoaavvHBtSREwEXUkyaYAqyU6ZS6UUp5pzs9s6NVm\nh9n6Q+X68BBaMY2irB6RSrgwePmcljOcb/w7PhvC2HWtYPvEevnPD0CdE9Cigmon\n3UOhA0yhu/d0pLvxjowreFjBkdZtc/URr9yOddh3v7nbdC6UD5uBYf9N1wKBgQDV\ns2EDUMy5SvkhZhNhaLp1YTAMcjTjoDt+tjG4kc0Rm857RUJkc3ZC8uRZVB7gAQ3Q\nCmF+UBmikJMlbhwVquDT7vGl5w/F7HqK5pxG9XiGOUBUxyT9QpDR5KSq4F8SZUIx\nEMCoKFxkeC3XCCn8yV3GRNzKUYnkk/d94I6kpsCBlwKBgQCCxxJv90L7YM+X04Kd\n39g6YZU0mnrq6dJgUZ4UCrRFE06b3jsZevB+j/jSNSL48L/vesqEmniwC4cNMEAv\nzOkQuhVjw4Rf1gMyAc4En+e+/FpNo2aeSMDSrljK9zFT53nV25dnZf1G40wcJYzk\nwYUA5FMJPxk0ylq1+P1ALZqIuQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "call-for-speakers-account@call-for-spakers.iam.gserviceaccount.com",
+  "client_id": "105319578264834733650",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/call-for-speakers-account%40call-for-spakers.iam.gserviceaccount.com"
+}
